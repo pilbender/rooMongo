@@ -1,5 +1,14 @@
+# Run files
+log.roo
+target/
+
+# Eclipse specific files
 .classpath
 .project
 .settings/
-log.roo
-target/
+
+# Intellij specific files
+/.idea
+/rooMongo.iml                                                                                                                                                                                                                                                           
+/rooMongo.ipr                                                                                                                                                                                                                                                           
+/rooMongo.iws
